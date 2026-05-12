@@ -68,3 +68,28 @@
 - **`AGENTS.md`**: AI 에이전트가 지켜야 할 분석 수칙과 페르소나 설정.
 - **`인공지능 지침/역기획_분석_가이드.md`**: 분석 보고서의 품질을 유지하기 위한 가이드라인.
 - **`인공지능의 분석 문서들/`**: AI가 분석하고 개선한 결과물들이 저장되는 공간.
+
+## AI 에이전트 프로그램에 따른 설정
+
+### 이 프로젝트에서는 opencode를 사용했습니다
+
+이 프로젝트에서는 [opencode](https://opencode.ai/ko)를 사용한다는 가정 하에 작성되었으나, 사용자가 원하는 경우 [Gemini CLI](https://geminicli.com/)나 [Claude Code](https://code.claude.com/docs/ko/overview)를 사용할 수 있습니다.
+단, 후자의 경우에는 추가적인 절차가 필요할 수 있습니다.
+
+### 제미나이 CLI의 경우
+
+제미나이의 context 파일은 오픈코드나 클로드 코드와는 다르게, 기본적으로 `GEMINI.md`라는 이름을 사용합니다. (참조: [제미나이 CLI 공식 문서에서 설명한 GEMINI.md 문서](https://geminicli.com/docs/cli/gemini-md/))
+해당 참조 링크에서 제시하는 방법을 사용하면 됩니다.
+
+맥 기준으로 설명하자면, 제미나이의 설정 파일 `~/.gemini/settings.json` 파일에 다음과 같이 추가하면 됩니다:
+
+```json
+"context": {
+  "fileName": ["AGENTS.md", "GEMINI.md"]
+}
+```
+
+### 클로드 코드의 경우
+
+클로드 코드에서는 아직 사용해본 적이 없습니다.
+다만 오픈코드와 동일하게 context 파일의 기본 이름으로 `AGENTS.md`를 사용한다고 알고 있기 때문에, 큰 문제는 없을 것으로 생각합니다.
