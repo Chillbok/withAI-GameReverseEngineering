@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AGENTS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGENTS"
+            }
+          },
+          {
+            "id": "de06ca4a885002d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "게임에 대한 정보/마라톤 게임 정보 사이트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "마라톤 게임 정보 사이트"
+            }
+          },
+          {
+            "id": "8573ab197bde92e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "피드백 내용/2025-05-11 피드백.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-11 피드백"
+            }
+          },
+          {
+            "id": "5cd038b2069add9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인공지능 지침/역기획_분석_가이드.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "역기획_분석_가이드"
+            }
+          },
+          {
+            "id": "2cbe94abcf1f87cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인공지능의 분석 문서들/20260511T0001 인공지능 역기획 분석.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260511T0001 인공지능 역기획 분석"
+            }
+          },
+          {
+            "id": "6e4cc972ce9a970e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인공지능의 분석 문서들/20260511T1507 마라톤 소모품 종합 역기획 분석 보고서.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260511T1507 마라톤 소모품 종합 역기획 분석 보고서"
+            }
+          },
+          {
+            "id": "3066d4e9fd8872ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "게임에 대한 정보/Fandom_소모품_데이터.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fandom_소모품_데이터"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af74d95198db5824",
+    "type": "split",
+    "children": [
+      {
+        "id": "996f379d39beb2b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59231bea23474cb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "3e306a76a083ba7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "105b9ab9e5acd3bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70e90599b6adbdad",
+    "type": "split",
+    "children": [
+      {
+        "id": "503c23b871647968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b89d429757a28382",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "기획하는 게임에 대한 정보.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "기획하는 게임에 대한 정보 의 백링크"
+            }
+          },
+          {
+            "id": "8d821c4a20de33c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "기획하는 게임에 대한 정보.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "기획하는 게임에 대한 정보 의 나가는 링크"
+            }
+          },
+          {
+            "id": "2c165ef9b978cf13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "bca684ae1b3db969",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "78a6e593f252c6c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "기획하는 게임에 대한 정보.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "기획하는 게임에 대한 정보 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:무작위 노트 열기": false,
+      "audio-recorder:녹음 시작/정지": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "de06ca4a885002d1",
+  "lastOpenFiles": [
+    "게임에 대한 정보/Fandom_소모품_데이터.md",
+    "게임에 대한 정보/마라톤(2026)_아이템 - 나무위키.pdf",
+    "게임에 대한 정보/마라톤 게임 정보 사이트.md",
+    "인공지능의 분석 문서들/20260511T1507 마라톤 소모품 종합 역기획 분석 보고서.md",
+    "게임에 대한 정보/무제.md",
+    "AGENTS.md",
+    "인공지능의 분석 문서들/20260511T0001 인공지능 역기획 분석.md",
+    "피드백 내용/2025-05-11 피드백.md",
+    "피드백 폴더",
+    "피드백 내용",
+    "인공지능 지침/역기획_분석_가이드.md",
+    "System/Templates/인공지능 분석 보고서 템플릿.md",
+    "퀘스트 소모품.md",
+    "인공지능 사용 기록/MCP의 비용이 지나치게 높다.md",
+    "인공지능 사용 기록",
+    "인공지능의 분석 문서들/20260511T1506 소모품 아이템 목록 인공지능 역기획 분석.md",
+    "인공지능의 분석 문서들/20260511T1505 역기획 브레인스토밍 인공지능 역기획 분석.md",
+    "인공지능의 분석 문서들/20260511T1504 퀘스트 소모품 인공지능 역기획 분석.md",
+    "인공지능의 분석 문서들/20260511T1503 정화 소모품 인공지능 역기획 분석.md",
+    "인공지능의 분석 문서들/20260511T1502 버프 소모품 인공지능 역기획 분석.md",
+    "인공지능의 분석 문서들/20260511T1501 치료 소모품 인공지능 역기획 분석.md",
+    "인공지능의 분석 문서들/20260511T1500 마라톤 아이템 역기획 분석.md",
+    "System/Assets/무제.md",
+    "System/Assets",
+    "System/무제.md",
+    "인공지능의 분석 문서들/20260511T1200 인공지능 역기획 분석.md",
+    "인공지능의 분석 문서들/20260511T1300 인공지능 역기획 분석.md",
+    "인공지능의 분석 문서들/20260511T1400 인공지능 역기획 분석.md",
+    "System/Templates",
+    "System",
+    "인공지능의 분석 문서들/20260511T0954 인공지능 역기획 분석.md",
+    "인공지능 지침",
+    "인공지능의 분석 문서들/마라톤_소모품_역기획_분석_보고서.md",
+    "인공지능의 분석 문서들",
+    "게임에 대한 정보"
+  ]
+}

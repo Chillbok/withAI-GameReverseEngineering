@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "",
+  "vimMode": false,
+  "showInlineTitle": true,
+  "openBehavior": "file:AGENT"
+}
