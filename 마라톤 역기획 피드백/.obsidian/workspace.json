@@ -105,7 +105,8 @@
               "title": "Fandom_소모품_데이터"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AGENTS.md",
+                "file": "인공지능 지침/역기획_분석_가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AGENTS 의 백링크"
+              "title": "역기획_분석_가이드 의 백링크"
             }
           },
           {
@@ -281,13 +282,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5cd038b2069add9c",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "인공지능의 분석 문서들/20260512T1000 마라톤 소모품 역기획 개선 가이드.md",
     "게임에 대한 정보/Fandom_소모품_데이터.md",
     "인공지능의 분석 문서들/20260511T1507 마라톤 소모품 종합 역기획 분석 보고서.md",
     "인공지능의 분석 문서들/20260511T0001 인공지능 역기획 분석.md",
     "피드백 내용/2025-05-11 피드백.md",
-    "AGENTS.md",
     "게임에 대한 정보/사이트 내용 정리",
     "게임에 대한 정보/마라톤 게임에 대한 정보를 다룬 사이트들.md",
     "게임에 대한 정보/마라톤(2026)_아이템 - 나무위키.pdf",

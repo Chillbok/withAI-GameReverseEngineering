@@ -15,7 +15,9 @@ This folder (vault) is a specialized space for game planning studies using AI, f
     1. **Accuracy**: Verify consistency between official data and Notion document content.
     2. **Mechanism**: Analyze whether strategic elements of the extraction shooter genre (risk/reward, etc.) are appropriately reflected.
     3. **Rationale**: Evaluate the logical validity of the set values or rules.
-- **Actions**: Write analysis reports and save them in the **`인공지능의 분석 문서들/`** folder. Use the filename format: **`YYYYMMDDTHHmm 인공지능 역기획 분석.md`**. Propose error corrections for existing documents and provide logical supplements for system designs.
+    4. **Actionability**: Propose specific, implementable solutions (numerical values, formulas, or logic) that the user can directly apply to improve the document.
+    5. **Comparability**: Provide before/after comparisons to clearly explain the logic behind the improvements.
+- **Actions**: Write analysis reports and save them in the **`인공지능의 분석 문서들/`** folder. Use the filename format: **`YYYYMMDDTHHmm 인공지능 역기획 분석.md`**. Beyond identifying errors, focus on providing **"Actionable Guides"** that empower the user to refine their own planning documents.
 - **Template Usage**: Use [[인공지능 분석 보고서 템플릿]] when creating reports to maintain consistent metadata and structure. Clearly record which model performed the analysis by including the `ai_model` property in the YAML frontmatter.
 - **Asset Management**: All external attachments such as PDFs and images must be saved in the **`System/Assets/`** folder and linked within the documents.
 - **Notion Link Handling**: When referencing Notion documents in reports, use **Markdown hyperlinks** (e.g., `[Buff Consumables](https://notion-url)`) instead of `[[Wikilinks]]`. Wikilinks become broken if the file does not exist locally. However, use `[[Wikilinks]]` for files that actually exist in the local vault (e.g., files in `게임에 대한 정보/`).
