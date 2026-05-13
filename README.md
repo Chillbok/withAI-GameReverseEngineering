@@ -8,7 +8,7 @@
 - **비교 분석**: 원본 문서와 개선된 기획안을 대조하여 발전 과정을 기록.
 
 ## 도구 및 환경
-- **주요 도구**: Obsidian (지식 관리), AI Agents (베테랑 기획자 페르소나)
+- **주요 도구**: Obsidian (지식 관리), AI Agents (베테랑 기획자 페르소나), [Opencode](https://github.com/anomalyco/opencode) (Gemini CLI, Claude Code 등으로 변경 가능)
 - **대상 게임**: 마라톤 (Marathon, 2026년작 익스트랙션 슈터)
 
 ---

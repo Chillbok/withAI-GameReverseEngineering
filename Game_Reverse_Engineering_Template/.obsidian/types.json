@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date&time": "datetime",
+    "PARA": "multitext",
+    "주제": "multitext",
+    "created": "datetime",
+    "date_created": "datetime",
+    "date_modified": "datetime",
+    "완료 여부": "checkbox",
+    "완료 기한": "datetime"
+  }
+}
