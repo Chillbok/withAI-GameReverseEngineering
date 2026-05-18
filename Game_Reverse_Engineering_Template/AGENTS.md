@@ -1,23 +1,29 @@
-# AI를 활용한 게임 기획 학습
+# Learning Game Design via AI
 
-이 폴더(볼트)는 AI를 활용한 게임 기획 학습 및 역기획 분석을 위한 전문 작업 공간입니다. 주된 목표는 **사용자가 제공하는 역기획 콘텐츠(연결된 MCP 문서인 Notion이나 로컬 Markdown 파일 등)를 분석 및 평가하는 것**입니다.
+> [!meta] Maintenance Note
+> This document and all related instruction files (e.g., guidelines in `인공지능 지침/`) are written in English to optimize token usage and AI comprehension. However, **all AI-generated responses and final reports MUST be in Korean** for the user's convenience.
 
-## 핵심 맥락 & 도메인 지식
-- **대상 게임 및 장르**: 대상 게임의 장르, 핵심 메커니즘, 설계 철학을 이해하기 위해 반드시 먼저 `게임에 대한 정보/` 폴더 내 문서를 읽어야 합니다.
-- **주요 분석 대상**: 사용자가 프롬프트에서 제공한 역기획 콘텐츠.
-- **참고 자료 및 사실 검증**: `게임에 대한 정보/` 폴더에 캐싱된 문서와 외부 링크는 용어, 세계관, 수치 데이터의 사실 검증을 위한 절대적인 기준입니다.
-- **설계 철학**: 디자인 결정을 평가할 때 대상 게임의 장르별 특성과 핵심 루프를 항상 염두에 두어야 합니다.
+This vault is a specialized workspace for learning game design and analyzing game reverse engineering documents through AI. The primary goal is to **analyze and evaluate reverse engineering content** (e.g., Notion pages via MCP or local Markdown files) provided by the user.
 
-## 볼트 전용 워크플로우
-- **미션 목표**: 핵심 과업은 역기획 문서의 품질을 향상시키기 위한 **분석 및 평가**, 그리고 **보완 기획**을 수행하는 것입니다.
-- **상세 지침**:
-    - 분석 수행 및 보고서 작성: [[역기획_분석_실행_지침]] 및 [[역기획_분석_가이드]]를 따릅니다.
-    - 데이터 수집 프로토콜: [[데이터_수집_및_최적화]]를 준수합니다.
-    - 페르소나 및 전문성: [[전문성_및_페르소나]]를 유지합니다.
+## Core Context & Domain Knowledge
+- **Target Game & Genre**: To understand the target game's genre, core mechanisms, and design philosophy, you MUST first read the documents in the `게임에 대한 정보/` folder.
+- **Primary Analysis Target**: The reverse engineering content provided by the user in the prompt.
+- **Reference Materials & Fact-Checking**: Documents cached in the `게임에 대한 정보/` folder and external links serve as absolute standards for verifying terms, world-building details, and numerical data.
+- **Design Philosophy**: Always keep the genre-specific characteristics and core loops of the target game in mind when evaluating design decisions.
 
-## 문서화 규칙
-이 볼트 내에서 지침이나 문서를 작성할 때는 다음 규칙을 엄격히 준수하세요:
-- **폴더 경로**: 반드시 명시적인 텍스트로 작성하고 슬래시(/)로 끝내야 합니다(e.g., `Folder/` 또는 `Parent/Child/`).
-- **개별 파일**: **위키링크**로 작성하여(e.g., [[FileName]]) Obsidian의 자동 업데이트 기능을 활용하세요.
+## Vault-Specific Workflow
+- **Mission Goal**: The core task is to perform **analysis & evaluation** and **supplemental planning** to improve the quality of reverse engineering documents.
+- **Analysis Approach (Depth & Structure)**:
+    - **Logic & Philosophy**: Deeply analyze the "Why" behind the design (e.g., opportunity costs, strategic choices, player decision-making logic) to provide high-level design coaching.
+    - **Actionable Guidance**: Select the most effective structured format tailored to the nature of the feedback (e.g., comparative analysis, implementation cases, or technical specifications). Focus on providing **concrete and applicable directions** so the user can clearly understand the "How" of the improvement without being limited to a specific template.
+- **Detailed Guidelines**:
+    - Analysis Execution & Report Writing: Follow [[역기획_분석_실행_지침]] and [[역기획_분석_가이드]].
+    - Data Collection Protocol: Comply with [[데이터_수집_및_최적화]].
+    - Expertise & Persona: Maintain [[전문성_및_페르소나]].
 
-*(참고: 기본 Markdown 문법과 파일 편집 동의 규칙은 상위 `AGENTS.md`를 따릅니다.)*
+## Documentation Rules
+When writing guidelines or documents within this vault, strictly adhere to the following rules:
+- **Folder Paths**: Must be written as explicit text and end with a slash (e.g., `Folder/` or `Parent/Child/`).
+- **Individual Files**: Use **Wikilinks** (e.g., [[FileName]]) to leverage Obsidian's auto-update feature.
+
+*(Note: Basic Markdown syntax and file edit consent rules follow the parent `AGENTS.md`.)*
